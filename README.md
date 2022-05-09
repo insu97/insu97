@@ -1,5 +1,11 @@
 # insu97
 
+## BackJoon
+
+1. 알고리즘 기초1
+
+---
+
 ## Frontend
 
 1. HTML & CSS
@@ -8,7 +14,3 @@
    - 자바스크립트 마스터리 ( 드림코딩 )
 
 ---
-
-## Git WebSite
-
-https://insu97.github.io/
