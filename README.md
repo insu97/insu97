@@ -1,5 +1,6 @@
 # insu97
 
-## BackJoon
+## 코딩 테스트
 
-## LeetCode
+1. BaekJoon
+2. LeetCode
