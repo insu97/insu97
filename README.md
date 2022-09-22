@@ -2,5 +2,5 @@
 
 ## 코딩 테스트
 
-* Baek Joon | LeetCode
-* Python-for-coding-test
+* Baek Joon | LeetCode [site]
+* Python-for-coding-test [book]
