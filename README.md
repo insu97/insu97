@@ -41,3 +41,7 @@
 ## Wep
 
 * [001.100일 코딩 챌린지-Web Development](https://github.com/insu97/web-development)
+
+## Tacademy
+
+* [001.Linux](https://github.com/insu97/tacademy/tree/main/linux)
