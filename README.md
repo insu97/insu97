@@ -5,4 +5,5 @@
 ---
 
 # DeepLearning
-1. [Deep-Learning-from-Scratch3](https://github.com/insu97/Deep-Learning-from-Scratch3)
+1. [Deep-Learning-from-Scratch1](https://github.com/insu97/Deep-Learning-from-Scratch1)
+2. [Deep-Learning-from-Scratch3](https://github.com/insu97/Deep-Learning-from-Scratch3)
