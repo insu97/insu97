@@ -12,3 +12,8 @@
 
 # Paper
 1. [ImageNet_Classification_with_Deep_Convolutional_Neural_Networks](https://github.com/insu97/PAPER/blob/main/ImageNet_Classification_with_Deep_Convolutional_Neural_Networks.ipynb)
+
+---
+
+# Project
+1. [EPL Project](https://github.com/insu97/Project)
