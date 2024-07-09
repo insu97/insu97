@@ -17,3 +17,5 @@
 
 # Project
 1. [EPL Project](https://github.com/insu97/Project/tree/main/001.EPL)
+
+![Insu97's GitHub stats](https://github-readme-stats.vercel.app/api?username=insu97&show_icons=true&theme=radical)
