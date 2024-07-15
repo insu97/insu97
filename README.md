@@ -16,6 +16,6 @@
 ---
 
 # Project
-1. [EPL Project](https://github.com/insu97/Project/tree/main/001.EPL)
+1. [Drug Project]([https://github.com/insu97/Project/tree/main/001.EPL](https://github.com/insu97/Project/tree/main))
 
 ![Insu97's GitHub stats](https://github-readme-stats.vercel.app/api?username=insu97&show_icons=true&theme=radical)
