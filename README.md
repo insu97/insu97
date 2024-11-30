@@ -27,4 +27,9 @@
 # Project
 1. [Drug Project](https://github.com/insu97/Project/tree/main/001.Drug_classification)
 
+---
+
+# Streamlit
+1. [네이버 뉴스 크롤링](https://news-crawling.streamlit.app/)
+
 ![Insu97's GitHub stats](https://github-readme-stats.vercel.app/api?username=insu97&show_icons=true&theme=radical)
