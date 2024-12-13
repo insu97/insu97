@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/in_watermelon_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="in_watermelon_" height="30" width="40" /></a>
+<a href="https://instagram.com/in_watermelon_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="in_watermelon_" height="30" width="40" /></a><a href="https://insu97.github.io/" target="blank"><img align="center" src="https://jekyllrb.com/img/logo-2x.png" alt="jekyll blog" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
